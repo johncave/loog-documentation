@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "Loog Documentation"
-baseurl = "http://loog-docs.johncave.co.nz"
+baseurl = "http://loog-docs.johncave.co.nz/"
 theme = "hugo-theme-learn"
