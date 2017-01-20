@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "Loog Documentation"
-baseurl = "http://docs.loog.johncave.co.nz/"
+baseurl = "http://fisherman-manners-23877.netlify.com"
 theme = "hugo-theme-learn"
