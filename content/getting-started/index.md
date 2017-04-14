@@ -4,9 +4,8 @@ title = "Getting Started"
 date = "2017-01-20T15:34:03+13:00"
 icon = "<b>1. </b>"
 chapter = true
-next = "/next/path"
-prev = "/prev/path"
-
+next = "about"
+prev = ""
 +++
 
 ### Chapter 1
